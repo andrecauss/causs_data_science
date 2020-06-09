@@ -3,21 +3,21 @@
 </p>
 
 # André Causs
-<sub>*Título</sub>
+<sub>*Product Development, Market Researcher and Data Science Stundent</sub>
 
 Descrição
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** PHP, VBA, Statistics, Price Analisis, Market Research and Demand Analyst
 
 **Links:**
 * [LinkedIn](https://bit.ly/2UnpwCt)
-* [Medium](https://www.medium.com)
+* [Medium](https://www.medium.com/@andrecauss)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Lista de projetos em Jupyter Notebook:
 
-* **xxxxx:** https://bit.ly/2L2cMwy
+* **Análise dos Dados do Airbnb - Roma, Itália:** https://bit.ly/2MIw61W
 
 ---
 
