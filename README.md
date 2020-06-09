@@ -2,25 +2,19 @@
   <img src="banner.png" >
 </p>
 
-# André Causs
-<sub>*Product Development, Market Researcher and Data Science Stundent</sub>
+# Projetos:
+Lista de projetos em Jupyter Notebook:
 
-Descrição
+* **Análise dos Dados do Airbnb - Roma, Itália:** https://bit.ly/2MIw61W
 
-**Background in:** PHP, VBA, Statistics, Price Analisis, Market Research and Demand Analyst
+## Sobre mim:
+Administrador e Tecnólogo em Sistemas
+Entusiasta de tecnologias, programação e automatização de tarefas
+10 anos de experiência na área negócios aumotivo, passando por áreas de análise e previsão de vendas, preços e produtos.
+
 
 **Links:**
 * [LinkedIn](https://bit.ly/2UnpwCt)
 * [Medium](https://www.medium.com/@andrecauss)
 
-
-## Projetos:
-Lista de projetos em Jupyter Notebook:
-
-* **Análise dos Dados do Airbnb - Roma, Itália:** https://bit.ly/2MIw61W
-
----
-
-
-
-
+--
